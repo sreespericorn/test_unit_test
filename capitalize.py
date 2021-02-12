@@ -1,6 +1,6 @@
 def capitalize_string(s):
     """
-    
+
     :param s:
     :return:
     """
